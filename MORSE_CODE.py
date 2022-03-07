@@ -1,6 +1,3 @@
-#Made by Rahul Singh
-#Enrollment No = 0105AL201046
-#Branch:CSE-AIML
 MORSE_CODE_DICT = { 'A':'|^|' , 'B':'|-]' ,   'C':'<('  ,
                     'D':'|>'  , 'E':'[-'  ,   'F':'|='  ,
                     'G':'(-|' , 'H':'|-|' ,   'I':'!'   ,
